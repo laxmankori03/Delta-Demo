@@ -1,2 +1,2 @@
 # Delta-Demo
-git demo for delta_demo
+git demo for delta_demo.
